@@ -1,0 +1,5 @@
+../Core/Src/state_machine.c:36:21:check_name	24	static
+../Core/Src/state_machine.c:45:21:check_for_event	24	static
+../Core/Src/state_machine.c:84:6:display_help	16	static
+../Core/Src/state_machine.c:97:6:red_led_state_machine	16	static
+../Core/Src/state_machine.c:151:6:green_led_state_machine	16	static

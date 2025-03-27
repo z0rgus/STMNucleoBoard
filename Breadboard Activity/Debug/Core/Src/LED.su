@@ -1,0 +1,9 @@
+../Core/Src/LED.c:25:6:GPIO_Output_Init	16	static
+../Core/Src/LED.c:55:6:LED_Init	8	static
+../Core/Src/LED.c:65:6:Red_LED_On	4	static
+../Core/Src/LED.c:70:6:Red_LED_Off	4	static
+../Core/Src/LED.c:75:6:Green_LED_On	4	static
+../Core/Src/LED.c:80:6:Green_LED_Off	4	static
+../Core/Src/LED.c:84:6:LED_Flash_Handler	8	static
+../Core/Src/LED.c:94:6:Red_LED_Toggle	4	static
+../Core/Src/LED.c:99:6:Green_LED_Toggle	4	static

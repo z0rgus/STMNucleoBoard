@@ -1,0 +1,4 @@
+../Core/Src/demo.c:51:6:init_systick	4	static
+../Core/Src/demo.c:79:6:SysTick_Handler	8	static
+../Core/Src/demo.c:94:13:demo_of_UART_print	56	static
+../Core/Src/demo.c:108:6:run_demo	16	static
