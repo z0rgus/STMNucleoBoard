@@ -16,10 +16,8 @@ Commands and Functionality in TTY terminal:
     - ALLOFF: Turn off all the LEDs
     - HELP: displays a help menu with all listed commands and their
       functions
-    
     Also supports backspaces and tells the user if they enter an 
     invalid command. 
-
     Utilized a state machine
 
 
